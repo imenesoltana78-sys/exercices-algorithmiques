@@ -1,0 +1,10 @@
+Algorithme TiersCarre
+Variables A, B : Entier
+Variable Tiers : Réel
+Début
+    Ecrire("Entrez la valeur de A : ")
+    Lire(A)
+    B ← A * A
+    Tiers ← B / 3
+    Ecrire("Le tiers du carré est : ", Tiers)
+Fin
