@@ -1,0 +1,7 @@
+Algorithme Permutation
+Variables A, B, C : Entier
+Début
+    C ← A
+    A ← B
+    B ← C
+Fin
