@@ -1,0 +1,12 @@
+Algorithme Tiers_Du_Carre
+
+Variables
+    N : Réel
+
+Début
+    Ecrire ("Entrer un nombre")
+    Lire (N)
+    N ← N * N
+    N ← N / 3
+    Ecrire (N)
+Fin
