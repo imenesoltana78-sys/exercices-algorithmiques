@@ -1,0 +1,14 @@
+Algorithme CalculSalaire
+Variables SH, PHEB, PM, PA : Réel
+Début
+    Ecrire("Entrez le salaire horaire : ")
+    Lire(SH)
+    
+    PM ← SH * 140
+    PHEB ← PM / 4
+    PA ← PM * 12
+    
+    Ecrire("Paye hebdomadaire : ", PHEB)
+    Ecrire("Paye mensuelle : ", PM)
+    Ecrire("Paye annuelle : ", PA)
+Fin
